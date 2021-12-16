@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layoutDescription="@xml/user_main2_scene">
+
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="411dp"
+        android:layout_height="388dp"
+        app:srcCompat="@drawable/photo1639644066"
+        android:onClick="ImageView"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-74dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="46dp"
+        android:layout_height="41dp"
+        app:srcCompat="@drawable/photo1639644066__1_"
+        tools:layout_editor_absoluteX="325dp"
+        tools:layout_editor_absoluteY="231dp" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView4"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        app:cardBackgroundColor="#EDECEC"
+        app:cardCornerRadius="20dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="231dp">
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="53dp"
+            android:backgroundTint="#ECECEC"
+            android:text="Jollof Rice"
+
+            android:textColor="@color/black"
+            android:textSize="11dp" />
+
+
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.constraintlayout.motion.widget.MotionLayout>

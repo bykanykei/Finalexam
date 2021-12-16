@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <string name="home">Home</string>
+    <string name="hhh">21-42-34,Banjara-Hills,Hyder...</string>
+    <string name="happy_deals">Happy deals</string>
+    <string name="big">Relish a big binge with our biggest offer</string>
+    <string name="exclusively_on_fastfood">Exclusively on FastFood</string>
+    <string name="deal_icious_offers_from_top_brand">Deal-icious offers from top brand</string>
+    <string name="offers">OFFERS</string>
+</resources>
