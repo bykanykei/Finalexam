@@ -14,7 +14,8 @@
         app:srcCompat="@drawable/photo1639644066"
         android:onClick="ImageView"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="-74dp" />
+        tools:layout_editor_absoluteY="-74dp" />\
+
 
     <ImageView
         android:id="@+id/imageView5"
